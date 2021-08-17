@@ -1,0 +1,1858 @@
+[
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next_small.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\next_small.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_accordion_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\accordion_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotateleft_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotateleft_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_storage.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\storage.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_trending_up_white_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_trending_up_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_up.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shadow_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_sound.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\icons8_sound.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_playback_play.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\btn_playback_play.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_textcolor.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\default_textcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_ios_semi_bold.otf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\ios_semi_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_vertical_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\slide_fragment_vertical_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_colorpicker_swatch_selected.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_colorpicker_swatch_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pausewhite.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\pausewhite.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker_left.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\marker_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_single_artist_primary.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_single_artist_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_stack_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\stack_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_stop_square.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\icons8_stop_square.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right_light.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\right_light.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_accordion_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\accordion_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_count_round_drawable.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\count_round_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circlewhite.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\circlewhite.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wave_metro.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\wave_metro.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_playlist_child.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_playlist_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_nearlyred.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\list_nearlyred.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_card_flip_vertical_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\card_flip_vertical_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_16dp_solid_left.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ripple_16dp_solid_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_card_flip_vertical_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\card_flip_vertical_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_disc.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\disc.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotateleft_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotateleft_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_item_artist.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\background_item_artist.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_library_back_gradient.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\library_back_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_top_artist_header.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\round_top_artist_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_1white.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\menu_1white.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker_right.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\marker_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shuffle_panel_bottom_background.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shuffle_panel_bottom_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_micro_big.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\micro_big.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_refresh.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_up_black.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\up_black.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_stack_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\stack_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar_white.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\avatar_white.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_default_album_art.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-hdpi\\default_album_art.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_gradient_header.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\background_gradient_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_background.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\white_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_volume_mute_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_volume_mute_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_16dp_transparent.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ripple_16dp_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_card_flip_vertical_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\card_flip_vertical_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_horizontal_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\slide_fragment_horizontal_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hack_roundcorner.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\hack_roundcorner.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_setting_advance.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_setting_advance.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_next_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_skip_next_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker_right_pressed.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\marker_right_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sort_alphabetical.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\sort_alphabetical.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_white.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_play_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_horiz_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_more_horiz_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_library_add_white_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_library_add_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sort_down.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\sort_down.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\raw_waveform.json.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\raw\\waveform.json"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_album_art.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-xhdpi\\default_album_art.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup_song.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\popup_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_gradient.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\thumb_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_cube_vertical_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\cube_vertical_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_widget_selector_light.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\widget_selector_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_zoom_from_left_corner_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\zoom_from_left_corner_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_bottom_sheet_layout.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\optionbottomsheet\\layout\\menu_bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tick.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_playing_queue_expanded_unused.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_playing_queue_expanded_unused.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shuffle_white_36dp.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_shuffle_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_speaker.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_horizontal_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\slide_fragment_horizontal_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_down_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_lyric_viewer_end.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_lyric_viewer_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_library_end.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_tab_library_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_ios.otf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\ios.otf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_i_setting.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-xxhdpi\\ic_i_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_sharpen.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shape_sharpen.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_headphones.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\headphones.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_compound_search_likely_view.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\compound_search_likely_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rsb_default_thumb.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\rsb_default_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_fade_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_sanfont.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\sanfont.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pause_round.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\pause_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_extrabold.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\opensans_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_cube_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\cube_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_white.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\search_white.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_ios_11_medium.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\ios_11_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_big.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\notification_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_song_piece_layout.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\song_piece_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_ani_shadow_top.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shape_ani_shadow_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_default_album_art.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-xxxhdpi\\default_album_art.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_activated.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\thumb_activated.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_slider_drawer.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\activity_slider_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_volume_high.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\volume_high.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_glide_fragment_horizontal_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\glide_fragment_horizontal_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_mid_radius.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ripple_mid_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\card.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fullscreen.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\fullscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_shadow.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\gradient_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play_round.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\play_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_feature_playlist.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_feature_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_down_strong.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shadow_down_strong.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shuffle_glyn.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shuffle_glyn.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_1.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\menu_1.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_layer_single_playlist.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\card_layer_single_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotateright_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotateright_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_table_vertical_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\table_vertical_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_cube_vertical_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\cube_vertical_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_grant_permission.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_grant_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_ios_11_light.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\ios_11_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_art_now_playing.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_art_now_playing.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_zoom_from_right_corner_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\zoom_from_right_corner_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_back_pressable.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_back_pressable.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_glide_fragment_horizontal_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\glide_fragment_horizontal_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_ios_bold.otf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\ios_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_black.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\menu_black.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_splash.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\mipmap-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_back_arrow.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\icons8_back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_single_playlist_header.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_single_playlist_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_i_setting.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_i_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_single_artist_below.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_single_artist_below.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_song_big.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_song_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_playback_pause.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\btn_playback_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_playlist.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\menu_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_widget_selector_dark.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\widget_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_widget_big.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\app_widget_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lyric_top_gradient.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\lyric_top_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotateup_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotateup_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_up_asc.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\up_asc.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_zoom_from_right_corner_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\zoom_from_right_corner_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_presentation.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\presentation.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_keep_not_change.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\keep_not_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_scalex_exit.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\scalex_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_view.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\drawer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_table_vertical_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\table_vertical_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_widget_classic.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\app_widget_classic.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_now_playing_bottom_gradient.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\now_playing_bottom_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down_bottom.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\slide_down_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_watch_later_white_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_watch_later_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_card_flip_horizontal_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\card_flip_horizontal_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_i_setting.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-xhdpi\\ic_i_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_songs_list.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_songs_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_repeat.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\repeat.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circlegreen.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\circlegreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_feature_tab_body.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\feature_tab_body.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\debug\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_minimize.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\minimize.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_accordion_vertical_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\accordion_vertical_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_bounce_slow.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\bounce_slow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_fixed_slide_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\fixed_slide_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_drawable.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\thumb_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_i_setting.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-mdpi\\ic_i_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green_round_support_touch.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\green_round_support_touch.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_leave.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\anim_leave.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_repeat_one.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\repeat_one.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tfboys.jpg.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\tfboys.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_style.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\music_style.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker_left_normal.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\marker_left_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_table_horizontal_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\table_horizontal_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_previous_white_36dp.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_skip_previous_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seekbar_thumb.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\seekbar_thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_card_flip_horizontal_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\card_flip_horizontal_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_widget_classic.jpg.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\app_widget_classic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_next_white_36dp.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_skip_next_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_repeat_all.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\repeat_all.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_now_playing.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_now_playing.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_edit_lyric.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\background_edit_lyric.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\slide_fragment_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exit_controller.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\exit_controller.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_time_text_view_background.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\time_text_view_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_bottom_sheet_drawable.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\rounded_bottom_sheet_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_regular.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\opensans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shuffle_panel_top_background.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shuffle_panel_top_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_cube_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\cube_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_selector.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\notification_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_extrabolditalic.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\opensans_extrabolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_light.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\opensans_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_zoom_from_right_corner_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\zoom_from_right_corner_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_bolditalic.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\opensans_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_lyric_viewer.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_lyric_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_accordion_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\accordion_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_selector.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-v21\\notification_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_white_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_close_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_sort_order_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\optionbottomsheet\\layout\\sort_order_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_scalexy_enter.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\scalexy_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_scalexy_exit.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\scalexy_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pin_black.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\pin_black.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_white_36dp.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_pause_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_i_library.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-mdpi\\ic_i_library.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_scaley_exit.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\scaley_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nextred.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\nextred.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\xml_lyric_bottom_sheet_animation.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\xml\\lyric_bottom_sheet_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\mipmap-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_background.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\default_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker_right_normal.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\marker_right_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listblack.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\listblack.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_bounce.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_emoticon_excited.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\emoticon_excited.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_layout.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pause.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_view_background.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\search_view_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_media_store_info.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_media_store_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_san_francisco_bold.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\san_francisco_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flat_white.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\flat_white.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\xml_artist_pager_animation.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\xml\\artist_pager_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_vert_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_more_vert_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pausered.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\pausered.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_widget_small.jpg.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\app_widget_small.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\xml_app_widget_classic_info.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\xml\\app_widget_classic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_lightitalic.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\opensans_lightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_artist_sort_by.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\artist_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_feature_tab.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_feature_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_folders.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\menu_folders.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_semibolditalic.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\opensans_semibolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker_left_focused.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\marker_left_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_left_to_right.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\slide_left_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_yellow.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\thumb_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_genre_list.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_tab_genre_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bottom_artist_header.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\round_bottom_artist_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_hnul.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\hnul.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_play_circle.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\icons8_play_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_italic.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\opensans_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_speaker2.jpg.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\speaker2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_spinner_main_screen_inside.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_spinner_main_screen_inside.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotateleft_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotateleft_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\xml_app_widget_big_info.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\xml\\app_widget_big_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_white_36dp.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_play_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_contact.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_search.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_show_as.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\menu_show_as.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_yellow_round.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\bg_yellow_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shuffle.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_table_horizontal_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\table_horizontal_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup_playing_queue.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\popup_playing_queue.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black_rounded_big_light_alpha.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\black_rounded_big_light_alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_volume_up_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_volume_up_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notification.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_right_to_left.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\slide_right_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_vertical_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\slide_fragment_vertical_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_stack_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\stack_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_single_playlist_2.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_single_playlist_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_rounded.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\white_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_pause_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_back_color.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\gradient_back_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_border.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\circle_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_search.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smooth_shuffle.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\smooth_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_cube_vertical_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\cube_vertical_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_card_layer_back_stack.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_card_layer_back_stack.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_playlist.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\background_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_widget_big.jpg.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\app_widget_big.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_album_sort_by.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\album_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_white.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\menu_white.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_down_light.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\down_light.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_16dp_border_right.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ripple_16dp_border_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_stack_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\stack_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_playback_next.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\btn_playback_next.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_slider.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_previous_white_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_skip_previous_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_card_flip_vertical_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\card_flip_vertical_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_now_playing_top_gradient.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\now_playing_top_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\xml_main_screen_animation.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\xml\\main_screen_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fb_play_bg.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\fb_play_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_single_playlist.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_single_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_empty_music2.jpg.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_empty_music2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_search.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_zoom_from_left_corner_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\zoom_from_left_corner_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alphabet.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\alphabet.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner_layout.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\corner_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_sort_song_child.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_sort_song_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_yellow_dark_round.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\bg_yellow_dark_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\debug\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_down.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shadow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pauseblack.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\pauseblack.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loader_background.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\loader_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\color_bottom_navigation_icon_color.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\color\\bottom_navigation_icon_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\xml_library_tab_animation.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\xml\\library_tab_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pref.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\pref.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_ex.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shape_ex.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transparent_gradient.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\transparent_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\mipmap-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotateup_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotateup_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_vertical_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\slide_fragment_vertical_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_graphic_eq_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_graphic_eq_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_top.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_hevetica_font.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\hevetica_font.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_effect_15dp_radius.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ripple_effect_15dp_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_album.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\album.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotateright_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotateright_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_now_playing_expanded.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_now_playing_expanded.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_scalex_enter.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\scalex_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_image2.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\default_image2.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_bold.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\opensans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play_speed.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\play_speed.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back_button.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_image_round.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\default_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_item_song_in_artist.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\background_item_song_in_artist.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotatedown_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotatedown_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_next_white_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_skip_next_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_color_picker.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_color_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_loading.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more_black.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\more_black.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_album_song_sort_by.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\album_song_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\slide_fragment_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_style_white.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\music_style_white.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_presentation_play.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\presentation_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\debug\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_accordion_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\accordion_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_icon_mini.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\splash_icon_mini.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_i_library.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_i_library.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_single_artist_top.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_single_artist_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotateleft_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotateleft_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_playlist_detail.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\menu_playlist_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_box_avatar.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\box_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_empty.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\music_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_widget_small.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\app_widget_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_i_library.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-xhdpi\\ic_i_library.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_playing_queue.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_playing_queue.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotateright_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotateright_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_arrow_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_play_arrow_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_card_flip_horizontal_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\card_flip_horizontal_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_white.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_pause_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_blue.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\thumb_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_table_vertical_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\table_vertical_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_queue_music_white_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_queue_music_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\xml_app_widget_card_info.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\xml\\app_widget_card_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_down_white.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\down_white.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_circle_filled_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_pause_circle_filled_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_songs_tab.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_songs_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_card_flip_horizontal_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\card_flip_horizontal_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_top.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\xml_playing_queue_animation.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\xml\\playing_queue_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_accordion_vertical_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\accordion_vertical_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_i_library.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-xxhdpi\\ic_i_library.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_prevred.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\prevred.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_accordion_vertical_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\accordion_vertical_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_date.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\date.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_table_vertical_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\table_vertical_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_none.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\none.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_cube_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\cube_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sort_ascending.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\sort_ascending.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_playback_previous.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\btn_playback_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_playlists_piece_layout.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\playlists_piece_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotateright_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotateright_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_open_black.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\open_black.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_16dp_border.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ripple_16dp_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_16dp_border_left.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ripple_16dp_border_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_zoom_from_left_corner_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\zoom_from_left_corner_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_cube_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\cube_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_enter_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\anim_enter_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\xml_app_widget_small_info.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\xml\\app_widget_small_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_playing_list_bg.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\playing_list_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_playlist_list.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_tab_playlist_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shuffle_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_shuffle_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stroke_shadow.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\stroke_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_default_album_art.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-xxhdpi\\default_album_art.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_accordion_vertical_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\accordion_vertical_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotatedown_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotatedown_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_shadow.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shape_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_table_horizontal_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\table_horizontal_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_open_white.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\open_white.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_default_album_art.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-mdpi\\default_album_art.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_setting_tab.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_setting_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_black.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\share_black.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_folder_list.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_tab_folder_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_zoom_from_right_corner_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\zoom_from_right_corner_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_semibold.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\opensans_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_san_fransisco.otf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\san_fransisco.otf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_scaley_enter.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\scaley_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\debug\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\debug\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_splash.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\mipmap-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_sort.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\star_sort.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_16dp_translucent.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ripple_16dp_translucent.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_enter_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\anim_enter_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_hn.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\hn.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_playlist_title_border.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\playlist_title_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_san_francisco_regular_italic.ttf.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\san_francisco_regular_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotatedown_right_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotatedown_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_horizontal_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\slide_fragment_horizontal_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_oval.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ripple_oval.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_vertical_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\slide_fragment_vertical_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotateup_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotateup_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide_up_down_icon_drawable.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\slide_up_down_icon_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_preview_random_play.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_preview_random_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_access_time_white_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_access_time_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker_right_focused.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\marker_right_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_up_strong.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shadow_up_strong.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_slide_fragment_horizontal_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\slide_fragment_horizontal_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_i_library.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-hdpi\\ic_i_library.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_down_player.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\down_player.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skip_previous_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_skip_previous_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gotothis.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\gotothis.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo.jpg.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\photo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_cube_vertical_right_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\cube_vertical_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotatedown_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotatedown_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_song_normal.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_song_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sort_descending.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\sort_descending.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_zoom_from_left_corner_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\zoom_from_left_corner_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_rotateup_left_in.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\rotateup_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wave.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\wave.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\font\\opensans.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_sort.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\icons8_sort.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_inactivated.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\thumb_inactivated.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_feature_song.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_feature_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_shadow_top.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shape_shadow_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_library_music_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_library_music_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_library.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_tab_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker_left_pressed.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\marker_left_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_song_bigger.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_song_bigger.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_table_horizontal_left_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\table_horizontal_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_columns.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\columns.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_widget_card.jpg.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\app_widget_card.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_widget_card.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\app_widget_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_artist_list.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\screen\\layout\\screen_tab_artist_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_circle_filled_black_24dp.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_play_circle_filled_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_spinner_main_screen.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_spinner_main_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\animator_fade_out.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\animator\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_white.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\share_white.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_right.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\icons8_right.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_piece_layout_sample.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\piece_layout_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\xml_now_playing_animation.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\xml\\now_playing_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_love.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\love.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_library.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ic_library.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_i_setting.png.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable-hdpi\\ic_i_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_artist_child.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\layouts\\partial\\layout\\item_artist_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shuffle_big_background.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\shuffle_big_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\menu_song_sort_by.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\menu\\song_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_16dp_solid_right.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ripple_16dp_solid_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_effect.xml.flat",
+        "source": "C:\\Users\\dbala\\Desktop\\Rhythm music\\app\\src\\main\\res\\drawable\\ripple_effect.xml"
+    }
+]

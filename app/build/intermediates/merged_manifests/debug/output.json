@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":4,"versionName":"1.2.5","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"com.ldt.musicr","split":"","minSdkVersion":"17"}}]
